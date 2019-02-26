@@ -12,11 +12,11 @@ public class Test {
         Custom.groupKey(Key.win, Key.k_d);*/
 
 
-        try {
+        /*try {
             Runtime.getRuntime().exec("rundll32 url.dll,FileProtocolHandler http://www.baidu.com");
         } catch (IOException e) {
             e.printStackTrace();
-        }
+        }*/
 
 
     }
